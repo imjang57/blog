@@ -1,0 +1,17 @@
+baseurl = "https://imjang57.github.io/blog"
+title = "imjang57 blog"
+
+#languageCode = "en-us"
+languageCode = "ko-KR"
+DefaultContentLanguage = "kr"
+theme = "hugo-hello-programmer-theme"
+#disqusShortname = "XXXX"
+#googleAnalytics = "UA-XXXXXXXX-X"
+paginate = 10
+
+[author]
+    name = "Youngho Jang"
+    email = "imjang57@gmail.com"
+
+[params]
+    description = "Knowledge Storage blog"
